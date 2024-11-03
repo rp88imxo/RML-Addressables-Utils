@@ -1,0 +1,14 @@
+{
+    "name": "com.rml.addressablesutils",
+    "displayName": "RML Addressables Utils",
+    "version": "1.0.0",
+    "unity": "2022.3",
+    "description": "RML Addressables Utils contains different helpers to handle loading addressables",
+  "dependencies": {
+    "com.unity.addressables": "1.19.1"
+  },
+	 "author": {
+		"name": "RML",
+		"email": "rp88imxo@gmail.com"
+  }
+}
